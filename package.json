@@ -1,10 +1,8 @@
 {
   "name": "react-shadow-yh919",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get the perfect shadow for non-designer",
   "main": "index.js",
-  "module": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
