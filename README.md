@@ -4,12 +4,12 @@ Get perfect shadows every time for the non-desginer.
 
 # Installation
 
-`npm i react-shadow --save`
+`npm i react-shadow-yh919 --save`
 
 Then
 
 ```javascript
-import { reactshadow } from "react-shadow";
+import { reactshadow } from "react-shadow-yh919";
 
 reactshadow({
   shadow_type: "soft",
