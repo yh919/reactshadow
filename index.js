@@ -1,4 +1,4 @@
-function reactshadow(options) {
+export function reactshadow(options) {
   let images = document.querySelectorAll(".react-shadow");
   if (options.shadow_type === "hard") options.shadow_type = "0px";
   else options.shadow_type = "15px";
@@ -11,5 +11,3 @@ function reactshadow(options) {
     }
   });
 }
-
-module.exports.reactshadow = reactshadow;
