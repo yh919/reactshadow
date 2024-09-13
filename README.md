@@ -6,6 +6,9 @@ Get perfect shadows every time for the non-desginer.
 
 `npm i react-shadow-yh919 --save`
 
+Or Use CDN fro Vanilla Usage :
+`url https://cdn.skypack.dev/react-shadow-yh919`
+
 Then
 
 ```javascript
